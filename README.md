@@ -2,6 +2,9 @@
 
 My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on React Native, VueJs, NuxtJs and ExpressJs. Welcome to my Github page!
 
+#### A Brief History of myself
+I started picking up coding again in 2018 after more than a decade not practising it. Between 1996 - 1998 I was a junior programmer coding reports in INFORMIX 4GL with a manufacturing company. The between 1998 - 2000 I dabbled with Java Servlets and PHP and then I stopped! Back to 2018 when I picked it up again, I had to completely relearn everything. So, I can categorized myself as self-taught programmer.
+
 <!--
 **nahcnats/nahcnats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on ...
-  - A mobile attendance app written in React Native Expo currently named [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits).
-- 🌱 I’m currently learning ...
-  - Everything as stated above. There there an end?
+#### Past / Current Activities
+- Completed Projects ...
+  - TheShop. A React Native Expo shopping app based on one of [React Native - The Practical Guide [2021 Edition]](https://www.udemy.com/share/101WauB0QcclpUTXw=/) tutorial. The objective of following this course module was to 1, experience Expo (so convenient) and 2, learn a some good coding habits.
+  - GreatPlaces. A React Native Expo simple app I followed from [React Native - The Practical Guide [2021 Edition]](https://www.udemy.com/share/101WauB0QcclpUTXw=/) tutorial. This is just to pick up using Expo's geolocation instead of the bare workflow method. Again, using Expo is so much more convenient.
+  
+- I’m currently working on ...
+  - A mobile attendance app written in React Native Expo currently named [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). It's a hobby project, a complete rewrite of the original app I wrote for a company between 2018 - 2019.
+  
+- I’m currently learning ...
+  - Everything as stated above. Will there be an end?

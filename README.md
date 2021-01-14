@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on React Native, VueJs, NuxtJs and ExpressJs. Welcome to my Github page!
+
 <!--
 **nahcnats/nahcnats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+  - A mobile attendance app written in React Native Expo currently named [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits).
+- 🌱 I’m currently learning ...
+  - Everything as stated above. There there an end?

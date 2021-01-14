@@ -26,6 +26,3 @@ Here are some ideas to get you started:
   
 - I’m currently working on ...
   - A mobile attendance app written in React Native Expo currently named [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). It's a hobby project, a complete rewrite of the original app I wrote for a company between 2018 - 2019.
-  
-- I’m currently learning ...
-  - Everything as stated above. Will there be an end?

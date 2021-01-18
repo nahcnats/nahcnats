@@ -17,9 +17,12 @@ So yeah, I'd see myself as a self taught programmer.
 #### Past / Current activities
 - Completed projects ...
   - **transact2 ClockIT**. A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019.
+  
+#### Hobby Projects
+- Completed projects ...
   - **[TheShop](https://github.com/nahcnats/rnTheShop)**. A simple React Native Expo shopping app. Hobby project.
   - **[GreatPlaces](https://github.com/nahcnats/greatplaces)**. A React Native Expo simple app to try out Expo's geolocation instead of the bare workflow method. Hobby project.
-  
+
 - I’m currently working on ...
   - **[mobile-flexits](https://github.com/nahcnats/mobile-flexits)**. A mobile attendance app develop using React Native Expo. It's a hobby project, a complete rewrite of the original app I wrote for a company (Transact2) between 2018 - 2020.
   - **flextits-server**. A mobile attendance server develop using NuxtJs, ExpressJs with socket.io. A hobby project. The database is MySQL hosted in my Digital Ocean droplet in an Ubuntu environment served via Nginx. I don't when when I will finish this. It is currently serving the APIs for me to test Mobile FlexiTs. Currently it only has the authentication page and the main clocking activity screen. The source code for this is unfortunately in my private repository as I borrowed some business logic from Transact2's API, although it's a complete rewrite based off my memory.

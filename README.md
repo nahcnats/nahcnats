@@ -12,6 +12,8 @@ I started picking up programming again in 2017. I stopped practicing it in 2000.
 I think the only thing that somewhat remains are the basics like if-then-else, for-next-loops, functions etc. So yeah, I'd see myself as a self taught programmer.
 </details>
 
+:email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
+
 #### Past / Current activities
 - Completed projects ...
   - **transact2 ClockIT**. A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019.

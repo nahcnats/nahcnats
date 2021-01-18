@@ -7,9 +7,9 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   More stuff about me
 </summary>
 <br>
-I started picking up programming again in 2017. I stopped practicing it in 2000. It was hard picking it up again. I had to relearn everything, HTML, CSS, Javascript, the MVC concepts, SPA, classes etc. Totally different stuff to what I was exposed to before. I used to code reports in INFORMIX 4GL.
+I started picking up programming again in 2017. I stopped practicing it in 2000. I used to code reports in INFORMIX 4GL. It was hard picking it up again. I had to relearn everything as the current tech is totally different to what I was exposed to before.
 <br><br>
-I think the only thing that somewhat remains are the basics like if-then-else, for-next-loops, functions etc. So yeah, I'd see myself as a self taught programmer.
+So yeah, I'd see myself as a self taught programmer.
 </details>
 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 

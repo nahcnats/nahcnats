@@ -11,6 +11,6 @@ My name is Stanley Chan. I am a freelance programmer(self-taught) from Malaysia 
 - I’m currently working on ...
   - **[mobile-flexits](https://github.com/nahcnats/mobile-flexits)**. A mobile attendance app develop using React Native Expo. It's a hobby project, a complete rewrite of the original app I wrote for a company (Transact2) between 2018 - 2020.
   - **flextits-server**. A mobile attendance server develop using NuxtJs, ExpressJs with socket.io. The database is MySQL hosted in my Digital Ocean droplet in an Ubuntu environment served via Nginx. I don't when when I will finish this. It is currently serving the APIs for me to test Mobile FlexiTs. Currently it only has the authentication page and the main clocking activity screen. The source code for this is unfortunately in my private repository as I borrowed some business logic from Transact2's API, although it's a complete rewrite based off my memory.
-  
-  #### Profile Visits
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=nahcnats.nahcnats)
+
+#### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nahcnats.nahcnats)

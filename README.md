@@ -18,7 +18,7 @@ So yeah, I'd see myself as a self taught programmer.
 - Completed projects ...
   - **transact2 ClockIT**. A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019. Below is a short demo video.
   <br><br>
-  [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=5sAn6MhzN9c)](https://www.youtube.com/watch?v=5sAn6MhzN9c "transact2 ClockIT demo")
+  [![transact2 ClockIT](http://img.youtube.com/vi/5sAn6MhzN9c/0.jpg)](http://www.youtube.com/watch?v=5sAn6MhzN9c)
   
 #### Hobby Projects
 - Completed projects ...

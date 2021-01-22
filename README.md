@@ -24,10 +24,10 @@ So yeah, I'd see myself as a self taught programmer.
 - Completed projects ...
   - **[TheShop](https://github.com/nahcnats/rnTheShop)**. A simple React Native Expo shopping app. [Click here for demo](https://expo.io/@nahcnats/projects/sctheshop). You need to install Expo Client. Go to GooglePlay Store and search for 'Expo Client'. Download it. Once you've downloaded it, open it and there's a function you can scan QR code. After you scanned, the app will launch. Click the 'Switch To Sign Up'  button, enter some dummy email and password, you're good to go. If your on iOS, sorry :disappointed:. iOS only works on invites.
   - **[GreatPlaces](https://github.com/nahcnats/greatplaces)**. A React Native Expo simple app to try out Expo's geolocation instead of the bare workflow method.
+  - **[mobile-flexits](https://github.com/nahcnats/mobile-flexits)**. Mobile app develop using React Native Expo. A complete rewrite of the original app I wrote  for a company (Transact2) between 2018 - 2020. Screenshots will be available soon.
 
 - I’m currently working on ...
   - FlexiTs Mobile Attendance system
-    - **[mobile-flexits](https://github.com/nahcnats/mobile-flexits)**. Mobile app develop using React Native Expo. A complete rewrite of the original app I wrote  for a company (Transact2) between 2018 - 2020.
     - **flextits-server**. Server app and API develop using NuxtJs, ExpressJs with socket.io. The database is MySQL hosted in my Digital Ocean droplet in an Ubuntu environment served via Nginx. I don't when when I will finish this. It is currently serving the APIs for me to test Mobile FlexiTs. Currently it only has the authentication page and the main clocking activity screen. The source code for this is unfortunately in my private repository as I borrowed some business logic from Transact2's API, although it's a complete rewrite based off my memory.
 
 #### Profile Visits

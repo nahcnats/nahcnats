@@ -27,8 +27,7 @@ So yeah, I'd see myself as a self taught programmer.
   - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits)
 
 - I’m currently working on ...
-  - FlexiTs Mobile Attendance system
-    - **Server FlexiTs**. Server app and API develop using NuxtJs, ExpressJs with socket.io. The database is MySQL hosted in my Digital Ocean droplet in an Ubuntu environment served via Nginx. All the mobile APIs are done. Hence, I'm building both the webapp and APIs for it currently. The source code for this is unfortunately in my private repository as I borrowed some business logic from Transact2's API, although it's a complete rewrite based off my memory.
+  - **Server FlexiTs**. Server app and API for FlexiTs system develop using NuxtJs, ExpressJs with socket.io. The database is MySQL hosted in my Digital Ocean droplet in an Ubuntu environment served via Nginx. All the mobile APIs are done. Hence, I'm building both the webapp and APIs for it currently. The source code for this is unfortunately in my private repository as I borrowed some business logic from Transact2's API, although it's a complete rewrite based off my memory.
 
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nahcnats.nahcnats)

@@ -22,9 +22,9 @@ So yeah, I'd see myself as a self taught programmer.
   
 #### Hobby Projects
 - Completed projects ...
-  - **[The Shop](https://github.com/nahcnats/rnTheShop)**.
-  - **[Great Places](https://github.com/nahcnats/greatplaces)**.
-  - **[Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits)**.
+  - [The Shop](https://github.com/nahcnats/rnTheShop)
+  - [Great Places](https://github.com/nahcnats/greatplaces)
+  - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits)
 
 - I’m currently working on ...
   - FlexiTs Mobile Attendance system

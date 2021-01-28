@@ -22,9 +22,9 @@ So yeah, I'd see myself as a self taught programmer.
   
 #### Hobby Projects
 - Completed projects ...
-  - [The Shop](https://github.com/nahcnats/rnTheShop)
-  - [Great Places](https://github.com/nahcnats/greatplaces)
-  - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits)
+  - [The Shop](https://github.com/nahcnats/rnTheShop). Simple shopping app connected to Firebase. Screenshots available. Demo available via Expo client.
+  - [Great Places](https://github.com/nahcnats/greatplaces). Simple standalone app to capture pictures of location with camera, location. Data stored using SQLite. Screenshots available.
+  - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available.
 
 - I’m currently working on ...
   - **Server FlexiTs**. Server app and API for FlexiTs system develop using NuxtJs, ExpressJs with socket.io. The database is MySQL hosted in my Digital Ocean droplet in an Ubuntu environment served via Nginx. All the mobile APIs are done. Hence, I'm building both the webapp and APIs for it currently. The source code for this is unfortunately in my private repository as I borrowed some business logic from Transact2's API, although it's a complete rewrite based off my memory.

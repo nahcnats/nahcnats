@@ -28,9 +28,8 @@ So yeah, I'd see myself as a self taught programmer.
   - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Demo available via Expo client.
 
 - I’m currently working on ...
-  - **Signal Clone**. As it's name suggested. A Signal clone developed using React Native Expo and FireStore.
+  - **Signal Clone**. As it's name suggested. A Signal clone app developed using React Native Expo and FireStore.
   - **Server FlexiTs**. Server app and API for FlexiTs system develop using NuxtJs, ExpressJs with socket.io. The database is MySQL hosted in my Digital Ocean droplet in an Ubuntu environment served via Nginx. All the mobile APIs are done. Hence, I'm building both the webapp and APIs for it currently. The source code for this is unfortunately in my private repository as I borrowed some business logic from Transact2's API, although it's a complete rewrite based off my memory.
-  
   - [My Website](https://github.com/nahcnats/nuxt-website). Developing my new website using NuxtJs and Firebase.
 
 #### Profile Visits

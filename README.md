@@ -27,7 +27,7 @@ So yeah, I'd see myself as a self taught programmer.
   - [Signal Clone](https://github.com/nahcnats/signal-clone). As it's name suggested. A Signal clone app developed using React Native Expo and FireStore.
   - [The Shop](https://github.com/nahcnats/rnTheShop). Simple shopping app connected to Firebase. Screenshots available. Demo available via Expo client.
   - [Great Places](https://github.com/nahcnats/greatplaces). Simple standalone app to capture pictures of location with camera, location. Data stored using SQLite. Screenshots available. Demo available via Expo client.
-  - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Demo available via Expo client.
+  - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Demo available via Expo client. Below is a short demo video.
   <br><br>
     [![flexiTs Mobile](http://img.youtube.com/vi/TU9RV6V1smQ/0.jpg)](https://youtu.be/TU9RV6V1smQ "Click to play on YouTube")
 

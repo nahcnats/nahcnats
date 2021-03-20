@@ -1,6 +1,6 @@
 ### Hi I'm Stan 👋
 
-My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on React Native, VueJs, NuxtJs and ExpressJs.
+My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on React Native, NodeJs and ExpressJs.
 
 <details>
 <summary>

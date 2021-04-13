@@ -23,7 +23,7 @@ So yeah, I'd see myself as a self taught programmer.
   
 #### Hobby Projects
 - Completed projects ...
-  - [Memories] (https://github.com/nahcnats/memories-reactjs-mern). A simple a social media app that allows users to post interesting events that happened in their lives.
+  - [Memories](https://github.com/nahcnats/memories-reactjs-mern). A simple a social media app that allows users to post interesting events that happened in their lives.
   - [CryptoCurrency App UI](https://github.com/nahcnats/cyrptocurrency_app). A cyrpto currency app UI to explore floating components and different code organization.
   - [Signal Clone](https://github.com/nahcnats/signal-clone). As it's name suggested. A Signal clone app developed using React Native Expo and FireStore.
   - [The Shop](https://github.com/nahcnats/rnTheShop). Simple shopping app connected to Firebase. Screenshots available. Demo available via Expo client.

@@ -15,7 +15,12 @@ So yeah, I'd see myself as a self taught programmer.
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
-- **Protenga InsectOS** (Apr 26, 2021 - current). Stacks are NodeRED, Angular+ and CouchDB.
+- **Protenga InsectOS** 
+  -  Duration: Apr 26, 2021 - current 
+  -  Stacks: NodeRED, Angular+ and CouchDB. 
+  -  Role: Developer
+  -  Employment Type: Freelance contract.
+  -  Scope of work: Maintain and develop new requirements.
 
 #### Past / Current activities
 - Completed projects ...

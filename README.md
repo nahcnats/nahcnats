@@ -14,6 +14,9 @@ So yeah, I'd see myself as a self taught programmer.
 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
+#### Current Projects
+- **Protenga InsectOS** (Apr 26, 2021 - current). Stacks are NodeRED, Angular+ and CouchDB.
+
 #### Past / Current activities
 - Completed projects ...
   - **Irham Tuxuri**. A freelance project (Feb 8, 2021 - Feb 8, 2021) to rectify bugs in a React Native app.
@@ -31,7 +34,6 @@ So yeah, I'd see myself as a self taught programmer.
   - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Demo available via Expo client. Below is a short demo video.
   <br><br>
     [![flexiTs Mobile](http://img.youtube.com/vi/TU9RV6V1smQ/0.jpg)](https://youtu.be/TU9RV6V1smQ "Click to play on YouTube")
-
 
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nahcnats.nahcnats)

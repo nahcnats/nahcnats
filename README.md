@@ -15,6 +15,13 @@ So yeah, I'd see myself as a self taught programmer.
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
+- **WeCar Mobile** 
+  -  Duration: May 26, 2021 - current 
+  -  Stacks: React Native 
+  -  Role: Developer
+  -  Employment Type: Freelance contract.
+  -  Scope of work: Develop mobile app.
+  -  
 - **Protenga InsectOS** 
   -  Duration: Apr 26, 2021 - current 
   -  Stacks: NodeRED, Angular+ and CouchDB. 

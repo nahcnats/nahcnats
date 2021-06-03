@@ -15,10 +15,10 @@ So yeah, I'd see myself as a self taught programmer.
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
-- **WeCar Mobile** 
+- **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - current 
-  -  Stacks: React Native 
-  -  Role: Developer
+  -  Stacks: Laravel, MySQL, React Native 
+  -  Role: React Native Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Develop mobile app.
   -  

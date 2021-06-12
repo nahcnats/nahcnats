@@ -1,16 +1,6 @@
 ### Hi I'm Stan 👋
 
-My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on ReactJS, React Native, NodeJS and Express.
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-<br>
-I started picking up programming again in 2017. I stopped practicing it in 2000. I used to code reports in INFORMIX 4GL. It was hard picking it up again. I had to relearn everything as the current tech is totally different to what I was exposed to before.
-<br><br>
-So yeah, I'd see myself as a self taught programmer.
-</details>
+My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on ReactJS, React Native, VueJs, NodeJS and ExpressJs.
 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
@@ -40,9 +30,7 @@ So yeah, I'd see myself as a self taught programmer.
 - Completed projects ...
   - [Memories](https://github.com/nahcnats/memories-reactjs-mern). A simple a social media app that allows users to post interesting events that happened in their lives.
   - [CryptoCurrency App UI](https://github.com/nahcnats/cyrptocurrency_app). A cyrpto currency app UI to explore floating components and different code organization.
-  - [Signal Clone](https://github.com/nahcnats/signal-clone). As it's name suggested. A Signal clone app developed using React Native Expo and FireStore.
   - [The Shop](https://github.com/nahcnats/rnTheShop). Simple shopping app connected to Firebase. Screenshots available. Demo available via Expo client.
-  - [Great Places](https://github.com/nahcnats/greatplaces). Simple standalone app to capture pictures of location with camera, location. Data stored using SQLite. Screenshots available. Demo available via Expo client.
   - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Demo available via Expo client. Below is a short demo video.
   <br><br>
     [![flexiTs Mobile](http://img.youtube.com/vi/TU9RV6V1smQ/0.jpg)](https://youtu.be/TU9RV6V1smQ "Click to play on YouTube")

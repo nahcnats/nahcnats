@@ -5,23 +5,30 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
+- **Casual Worker Genting** 
+  -  Duration: Jun 28, 2021 - current 
+  -  Stacks: ReactJs, MSSQL, NodeJs
+  -  Role: JavaScript Developer
+  -  Employment Type: Freelance contract.
+  -  Scope of work: Bug fixes.
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - current 
-  -  Stacks: Laravel, MySQL, React Native 
+  -  Stacks: MySQL, React Native 
   -  Role: React Native Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Develop mobile app.
-  -  
-- **Protenga InsectOS** 
-  -  Duration: Apr 26, 2021 - current 
-  -  Stacks: NodeRED, Angular+ and CouchDB. 
-  -  Role: Developer
-  -  Employment Type: Freelance contract.
-  -  Scope of work: Maintain and develop new requirements.
 
 #### Past / Current activities
-  - **Irham Tuxuri**. A freelance project (Feb 8, 2021 - Feb 8, 2021) to rectify bugs in a React Native app.
-  - **Transact2 ClockIT**. A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019. Below is a short demo video.
+-  **Protenga InsectOS** 
+    -  Duration: Apr 26, 2021 - Jun 25, 2021 
+    -  Stacks: NodeRED, Angular+ and CouchDB. 
+    -  Role: Developer
+    -  Employment Type: Freelance contract.
+    -  Scope of work: Maintain and develop new requirements.
+- **Irham Tuxuri**. 
+    - A freelance project (Feb 8, 2021 - Feb 8, 2021) to rectify bugs in a React Native app.
+- **Transact2 ClockIT**. 
+    - A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019. Below is a short demo video.
   <br><br>
   [![transact2 ClockIT](http://img.youtube.com/vi/5sAn6MhzN9c/0.jpg)](http://www.youtube.com/watch?v=5sAn6MhzN9c "Click to play on YouTube")
   

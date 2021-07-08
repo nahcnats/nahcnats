@@ -11,6 +11,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   -  Role: JavaScript Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Bug fixes.
+  -  Main Contractor: [Coder53](https://www.coder53.com)
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - current 
   -  Stacks: MySQL, React Native 

@@ -25,8 +25,6 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
     -  Role: Developer
     -  Employment Type: Freelance contract.
     -  Scope of work: Maintain and develop new requirements.
-- **Irham Tuxuri**. 
-    - A freelance project (Feb 8, 2021 - Feb 8, 2021) to rectify bugs in a React Native app.
 - **Transact2 ClockIT**. 
     - A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019. Below is a short demo video.
   <br><br>

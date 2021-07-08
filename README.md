@@ -18,6 +18,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   -  Role: React Native Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Develop mobile app.
+  -  Main Contractor: [Coder53](https://www.coder53.com)
 
 #### Past / Current activities
 -  **Protenga InsectOS** 
@@ -26,8 +27,13 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
     -  Role: Developer
     -  Employment Type: Freelance contract.
     -  Scope of work: Maintain and develop new requirements.
+    -  Main Contractor: [Coder53](https://www.coder53.com)
 - **Transact2 ClockIT**. 
-    - A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019. Below is a short demo video.
+  - Duration: May 2018 - August 2020
+  - Role: Technical Manager
+  - Employment Type: Permanent
+  - Main Contracter: [Transact2](https://www.transact2.com)
+  - Description: A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019. Below is a short demo video.
   <br><br>
   [![transact2 ClockIT](http://img.youtube.com/vi/5sAn6MhzN9c/0.jpg)](http://www.youtube.com/watch?v=5sAn6MhzN9c "Click to play on YouTube")
   

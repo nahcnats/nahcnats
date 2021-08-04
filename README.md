@@ -5,13 +5,6 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
-- **Casual Worker Genting** 
-  -  Duration: Jun 28, 2021 - current 
-  -  Stacks: ReactJs, MSSQL, NodeJs
-  -  Role: JavaScript Developer
-  -  Employment Type: Freelance contract.
-  -  Scope of work: Bug fixes.
-  -  Main Contractor: [Coder53](https://www.coder53.com)
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - current 
   -  Stacks: MySQL, React Native 
@@ -20,14 +13,23 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   -  Scope of work: Develop mobile app.
   -  Main Contractor: [Coder53](https://www.coder53.com)
 
-#### Past / Current activities
--  **Protenga InsectOS** 
-    -  Duration: Apr 26, 2021 - Jun 25, 2021 
-    -  Stacks: NodeRED, Angular+ and CouchDB. 
-    -  Role: Developer
-    -  Employment Type: Freelance contract.
-    -  Scope of work: Maintain and develop new requirements.
-    -  Main Contractor: [Coder53](https://www.coder53.com)
+#### Past Projects
+- **Casual Worker Genting** 
+  -  Duration: Jun 28, 2021 - Jul 8,2021 
+  -  Stacks: ReactJs, MSSQL, NodeJs
+  -  Role: JavaScript Developer
+  -  Employment Type: Freelance contract.
+  -  Scope of work: Bug fixes.
+  -  Main Contractor: [Coder53](https://www.coder53.com)
+
+- **Protenga InsectOS** 
+  -  Duration: Apr 26, 2021 - Jun 25, 2021 
+  -  Stacks: NodeRED, Angular+ and CouchDB. 
+  -  Role: Developer
+  -  Employment Type: Freelance contract.
+  -  Scope of work: Maintain and develop new requirements.
+  -  Main Contractor: [Coder53](https://www.coder53.com)
+  
 - **Transact2 ClockIT**. 
   - Duration: May 2018 - August 2020
   - Role: Technical Manager

@@ -11,7 +11,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   -  Role: React Native Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Develop mobile app.
-  -  Main Contractor: [Coder53](https://www.coder53.com)
+  -  Company: [Coder53](https://www.coder53.com)
 
 #### Past Projects
 - **Casual Worker Genting** 
@@ -20,7 +20,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   -  Role: JavaScript Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Bug fixes.
-  -  Main Contractor: [Coder53](https://www.coder53.com)
+  -  Company: [Coder53](https://www.coder53.com)
 
 - **Protenga InsectOS** 
   -  Duration: Apr 26, 2021 - Jun 25, 2021 
@@ -28,7 +28,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   -  Role: Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Maintain and develop new requirements.
-  -  Main Contractor: [Coder53](https://www.coder53.com)
+  -  Company: [Coder53](https://www.coder53.com)
   
 - **Transact2 ClockIT**. 
   - Duration: May 2018 - August 2020

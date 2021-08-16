@@ -32,7 +32,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   
 - **Transact2 ClockIT**. 
   - Duration: May 2018 - August 2020
-  - Role: Technical Manager
+  - Role: Full Stack Developer
   - Employment Type: Permanent
   - Company: [Transact2](https://www.transact2.com)
   - Description: A full stack mobile attendance system I developed while I was a developer with [Transact2 Sdn Bhd](https://transact2.com/). The API server was developed with ExpressJs, the web frontend with VueJs with Vuex and the mobile app with React Native (bare workflow). The database is MySQL. The app was released to the public in both Apple and GooglePlay Store somewhere around November - December 2019. Below is a short demo video.

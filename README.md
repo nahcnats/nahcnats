@@ -41,7 +41,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   
 #### Hobby Projects
   - [Memories](https://github.com/nahcnats/memories-reactjs-mern). A simple a social media app that allows users to post interesting events that happened in their lives. Live demo [here](https://memories.nahcnats.tk).
-  - [e-Commerce](https://github.com/nahcnats/e-commerce). A simple ReactJS app that uses [CommerceJS](https://commercejs.com/) as the backend API with a mocked up [Stripe](https://stripe.com)payment system. Live demo [here](https://https://ecommerce.nahcnats.tk/), you cannot however add products as it is currently tied to my personal account.
+  - [e-Commerce](https://github.com/nahcnats/e-commerce). A simple ReactJS app that uses [CommerceJS](https://commercejs.com/) as the backend API with a mocked up [Stripe](https://stripe.com) payment gateway. Live demo [here](https://https://ecommerce.nahcnats.tk/), you cannot however add products as it is currently tied to my personal account.
   - [CryptoCurrency App UI](https://github.com/nahcnats/cyrptocurrency_app). A cyrpto currency app UI to explore floating components and different code organization.
   - [The Shop](https://github.com/nahcnats/rnTheShop). Simple shopping app connected to Firebase. Screenshots available. Demo available via Expo client.
   - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Demo available via Expo client. Below is a short demo video.

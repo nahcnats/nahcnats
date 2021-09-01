@@ -1,10 +1,13 @@
 ### Hi I'm Stan 👋
 
-My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on ReactJS, React Native, VueJs, NodeJS and ExpressJs.
+My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, React Native, VueJs, NodeJS and ExpressJs.
 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
+- Currently employed as Front-End Developer (ReactJS and React Native) with [InnoQB](https://www.innoqb.com).
+
+#### Past Projects
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - Aug 31, 2021 
   -  Stacks: MySQL, React Native 
@@ -13,7 +16,6 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
   -  Scope of work: Develop mobile app.
   -  Company: [Coder53](https://www.coder53.com)
 
-#### Past Projects
 - **Casual Worker Genting** 
   -  Duration: Jun 28, 2021 - Jul 8,2021 
   -  Stacks: ReactJs, MSSQL, NodeJs

@@ -6,7 +6,7 @@ My name is Stanley Chan. I am a freelance programmer from Malaysia with focus on
 
 #### Current Projects
 - **B&W WeCar Mobile** 
-  -  Duration: May 26, 2021 - current 
+  -  Duration: May 26, 2021 - Aug 31, 2021 
   -  Stacks: MySQL, React Native 
   -  Role: React Native Developer
   -  Employment Type: Freelance contract.

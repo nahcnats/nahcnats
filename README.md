@@ -7,6 +7,14 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 #### Current Projects
 - Currently employed as Front-End Developer (ReactJS) with [InnoQB](https://www.innoqb.com).
 
+#### Current Initiatives
+- **Templates
+  - Create templates for 3 tier application i.e. consumer (web / mobile), business logic, and database.
+- **Connection to DB via ssh
+  - Configuration template for connecting database via ssh should there is a need to do so.
+- **Deployments
+  - Using docker and docker compose to deploy.
+
 #### Past Projects
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - Aug 31, 2021 

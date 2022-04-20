@@ -5,7 +5,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
-- Currently employed as Front-End Developer (ReactJS and React Native) with [InnoQB](https://www.innoqb.com).
+- Currently employed as Front-End Developer (ReactJS) with [InnoQB](https://www.innoqb.com).
 
 #### Past Projects
 - **B&W WeCar Mobile** 
@@ -42,11 +42,11 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
   [![transact2 ClockIT](http://img.youtube.com/vi/5sAn6MhzN9c/0.jpg)](http://www.youtube.com/watch?v=5sAn6MhzN9c "Click to play on YouTube")
   
 #### Hobby Projects
-  - [Memories](https://github.com/nahcnats/memories-reactjs-mern). A simple a social media app that allows users to post interesting events that happened in their lives. Live demo [here](https://memories.nahcnats.tk).
-  - [e-Commerce](https://github.com/nahcnats/e-commerce). A simple ReactJS app that uses [CommerceJS](https://commercejs.com/) as the backend API with a mocked up [Stripe](https://stripe.com) payment gateway. Live demo [here](https://https://ecommerce.nahcnats.tk/), you cannot however add products as it is currently tied to my personal account.
+  - [Memories](https://github.com/nahcnats/memories-reactjs-mern). A simple a social media app that allows users to post interesting events that happened in their lives. 
+  - [e-Commerce](https://github.com/nahcnats/e-commerce). A simple ReactJS app that uses [CommerceJS](https://commercejs.com/) as the backend API with a mocked up [Stripe](https://stripe.com) payment gateway.
   - [CryptoCurrency App UI](https://github.com/nahcnats/cyrptocurrency_app). A cyrpto currency app UI to explore floating components and different code organization.
-  - [The Shop](https://github.com/nahcnats/rnTheShop). Simple shopping app connected to Firebase. Screenshots available. Demo available via Expo client.
-  - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Demo available via Expo client. Below is a short demo video.
+  - [The Shop](https://github.com/nahcnats/rnTheShop). Simple shopping app connected to Firebase. Screenshots available.
+  - [Mobile FlexiTs](https://github.com/nahcnats/mobile-flexits). Mobile attendance app with location connected to my server. Screenshots available. Below is a short demo video.
   <br><br>
     [![flexiTs Mobile](http://img.youtube.com/vi/TU9RV6V1smQ/0.jpg)](https://youtu.be/TU9RV6V1smQ "Click to play on YouTube")
 

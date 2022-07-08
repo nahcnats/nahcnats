@@ -6,8 +6,6 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 
 #### Current Projects
 - Currently employed as Front-End Developer (ReactJS) with [InnoQB](https://www.innoqb.com).
-- Hobby projects:
-  - **Next Chat**
 
 #### Past Projects
 - **B&W WeCar Mobile** 

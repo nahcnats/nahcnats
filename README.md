@@ -12,7 +12,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
   - Role: Frontend Developer (React)
   - Employment Type: Permanent
   -  Scope of work: Develop e-commerce app for the mobile frontend(webview) using ReactJS.
-  - Company: InnoQB](https://www.innoqb.com)
+  - Company: [InnoQB](https://www.innoqb.com)
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - Aug 31, 2021 
   -  Stacks: MySQL, React Native 

@@ -5,9 +5,14 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
-- Currently employed as Front-End Developer (ReactJS) with [InnoQB](https://www.innoqb.com).
 
 #### Past Projects
+- **Seng Heng H5 S-Reward Centre**
+  - Duration: Sep 2021 - Sep 2022
+  - Role: Frontend Developer (React)
+  - Employment Type: Permanent
+  -  Scope of work: Develop e-commerce app for the mobile frontend(webview) using ReactJS.
+  - Company: InnoQB](https://www.innoqb.com)
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - Aug 31, 2021 
   -  Stacks: MySQL, React Native 
@@ -32,7 +37,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
   -  Scope of work: Maintain and develop new requirements.
   -  Company: [Coder53](https://www.coder53.com)
   
-- **Transact2 ClockIT**. 
+- **Transact2 ClockIT**
   - Duration: May 2018 - August 2020
   - Role: Full Stack Developer
   - Employment Type: Permanent

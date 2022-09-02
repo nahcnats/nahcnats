@@ -9,13 +9,14 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 #### Past Projects
 - **Seng Heng H5 S-Reward Centre**
   - Duration: Sep 2021 - Sep 2022
+  - Stacks: ReactJs, React Context, Ant Design Mobile UI
   - Role: Frontend Developer (React)
   - Employment Type: Permanent
   -  Scope of work: Develop e-commerce app for the mobile frontend(webview) using ReactJS.
   - Company: [InnoQB](https://www.innoqb.com)
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - Aug 31, 2021 
-  -  Stacks: MySQL, React Native 
+  -  Stacks: React Native, Redux 
   -  Role: React Native Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Develop mobile app.
@@ -23,7 +24,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 
 - **Casual Worker Genting** 
   -  Duration: Jun 28, 2021 - Jul 8,2021 
-  -  Stacks: ReactJs, MSSQL, NodeJs
+  -  Stacks: ReactJs, React Context, NodeJs, Sequalize and MS-SQL
   -  Role: JavaScript Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Bug fixes.
@@ -31,7 +32,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 
 - **Protenga InsectOS** 
   -  Duration: Apr 26, 2021 - Jun 25, 2021 
-  -  Stacks: NodeRED, Angular+ and CouchDB. 
+  -  Stacks: NodeRED, Angular+, MaterialUI and CouchDB. 
   -  Role: Developer
   -  Employment Type: Freelance contract.
   -  Scope of work: Maintain and develop new requirements.
@@ -39,6 +40,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
   
 - **Transact2 ClockIT**
   - Duration: May 2018 - August 2020
+  - Stacks: ExpressJs, VueJs, Vuex, Vuetify, React Native, Redux and MySQL.
   - Role: Full Stack Developer
   - Employment Type: Permanent
   - Company: [Transact2](https://www.transact2.com)

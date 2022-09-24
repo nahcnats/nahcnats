@@ -8,7 +8,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 
 #### Past Projects
 - **Seng Heng H5 S-Reward Centre**
-  - Duration: Sep 2021 - Sep 2022
+  - Duration: Sep 2021 - Aug 2022
   - Stacks: ReactJs, React Context, Ant Design Mobile UI
   - Role: Frontend Developer (React)
   - Employment Type: Permanent

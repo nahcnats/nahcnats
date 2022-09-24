@@ -8,12 +8,13 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 
 #### Past Projects
 - **Seng Heng H5 S-Reward Centre**
-  - Duration: Sep 2021 - Aug 2022
+  - Duration: Sep 1, 2021 - Aug 31, 2022
   - Stacks: ReactJs, React Context, Ant Design Mobile UI
   - Role: Frontend Developer (React)
   - Employment Type: Permanent
   -  Scope of work: Develop e-commerce app for the mobile frontend(webview) using ReactJS.
   - Company: [InnoQB](https://www.innoqb.com)
+  
 - **B&W WeCar Mobile** 
   -  Duration: May 26, 2021 - Aug 31, 2021 
   -  Stacks: React Native, Redux 

@@ -11,7 +11,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
     - Role: Full Stack Developer
     - Employment Type: Contract
     -  Scope of work: Develop in house app
-    - Company: [Cultcreative](https://www.cultcreative.asia/)
+    - Company: [Cultcreative](https://www.cultcreative.asia)
 
 #### Past Projects
 - **Seng Heng H5 S-Reward Centre**

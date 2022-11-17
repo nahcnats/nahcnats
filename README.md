@@ -1,6 +1,6 @@
 ### Hi I'm Stan 👋
 
-My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, React Native, NodeJS and ExpressJs. Yeah, I look more like a musician in rock back or something. No, seriously, I'm a programmer.
+My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, React Native, NodeJS and ExpressJs. Yeah, I know I look more like a musician in rock band or something. Seriously, I'm a programmer.
 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 

@@ -6,7 +6,7 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 
 #### Current Projects
 - **Cultcreative**
-  - Duration: Oct 3, 2021 - Current
+  - Duration: Oct 3, 2022 - Aug 27, 2023
     - Stacks: React Native, NextJS, Typescript, Firebase
     - Role: Full Stack Developer
     - Employment Type: Contract

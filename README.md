@@ -5,6 +5,8 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
 :email: &nbsp; [Contact me via email](mailto:nahcnats@gmail.com) 
 
 #### Current Projects
+
+#### Past Projects
 - **Cultcreative**
   - Duration: Oct 3, 2022 - Aug 27, 2023
     - Stacks: React Native, NextJS, Typescript, Firebase
@@ -13,7 +15,6 @@ My name is Stanley Chan. I am a programmer from Malaysia with focus on ReactJS, 
     -  Scope of work: Develop in house app
     - Company: [Cultcreative](https://www.cultcreative.asia)
 
-#### Past Projects
 - **Seng Heng H5 S-Reward Centre**
   - Duration: Sep 1, 2021 - Aug 31, 2022
   - Stacks: ReactJs, React Context, Ant Design Mobile UI
